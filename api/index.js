@@ -87,3 +87,5 @@ app.post("/send-dm-push", async (req, res) => {
         return res.status(500).json({ success: false, error });
     }
 });
+
+export default app;
