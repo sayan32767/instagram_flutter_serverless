@@ -1,0 +1,12 @@
+serviceAccountKey.json
+node_modules/
+dist/
+coverage/
+.env
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.tmp
+*.bak
+package-lock.json
